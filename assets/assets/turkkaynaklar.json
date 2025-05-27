@@ -1,0 +1,112 @@
+{
+  "notlar": [
+    {
+      "title": "Oğuz Atay: Beyaz Mantolu Adam",
+      "subtitle": "",
+      "logo": 1,
+      "ontap": "https://drive.google.com/file/d/1bs9tvkg8AHKii3oJbH7nkkFlpooMWP7O/view?usp=sharing"
+    },
+    {
+      "title": "Orhan Veli: Bütün Şiirleri",
+      "subtitle": "",
+      "logo": 1,
+      "ontap": "https://drive.google.com/file/d/1xAaduewDSHF3SbhcTjgONxlzvW-bzAEX/view?usp=sharing"
+    },
+    {
+      "title": "Necib Mahfuz: Midak Sokağı",
+      "subtitle": "",
+      "logo": 1,
+      "ontap": "https://drive.google.com/file/d/14K0SraIFIM6DANYfQE1wzDjJCsLRMb0w/view?usp=sharing"
+    },
+    {
+      "title": "Ionesco: Gergedanlar",
+      "subtitle": "",
+      "logo": 1,
+      "ontap": "https://drive.google.com/file/d/1sP4sy-Sr2gt5xAFeaUT7E4LBTpGU5gGW/view?usp=sharing"
+    },
+    {
+      "title": "Yabancı",
+      "subtitle": "",
+      "logo": 1,
+      "ontap": "https://drive.google.com/file/d/1gUtzYI_rKT5Fhob2rU1SUUTf0xRGT9jq/view?usp=sharing"
+    },
+    {
+      "title": "Çağrılmayan Yakup",
+      "subtitle": "",
+      "logo": 1,
+      "ontap": "https://drive.google.com/file/d/1kojmM9KukTz4kdnMNshnqtUUin6YZJtD/view?usp=sharing"
+    },
+    {
+      "title": "Latife Tekin: Sevgili Arsız Ölüm",
+      "subtitle": "",
+      "logo": 1,
+      "ontap": "https://drive.google.com/file/d/1CEYZ6FR44oJsQrIAnL2mtEYhqIoIJIpo/view?usp=sharing"
+    }
+  ],
+  "kitaplar": [
+    {
+      "title": "Oğuz Atay: Beyaz Mantolu Adam",
+      "subtitle": "",
+      "logo": 1,
+      "ontap": "https://drive.google.com/file/d/1SZAYPsPeXmahaiVV1meNSW8lJMmXFNSq/view?usp=sharing"
+    },
+    {
+      "title": "Ionesco: Gergedanlar",
+      "subtitle": "",
+      "logo": 1,
+      "ontap": "https://drive.google.com/file/d/1fO3U7gdyNM_cfGD_PTS-xMBWLAx_F-Ph/view?usp=sharing"
+    },
+    {
+      "title": "Necib Mahfuz: Midak Sokağı",
+      "subtitle": "",
+      "logo": 1,
+      "ontap": "https://drive.google.com/file/d/1hUvUa4xB8XE-PcoFpdt66znv6mOz9IVT/view?usp=sharing"
+    }
+  ],
+  "yon": [
+    {
+      "title": "Bireysel Sözlü Sunum örnek sorunlar",
+      "subtitle": "",
+      "logo": 1,
+      "ontap": "https://drive.google.com/file/d/17NGOUbSakqXSDNIXH9FroFF1dHOB5MUq/view?usp=sharing"
+    }
+  ],
+  "past": [
+    {
+      "title": "Çözümlü M23 Paper 2",
+      "subtitle": "",
+      "logo": 2,
+      "ontap": "https://drive.google.com/drive/folders/1p_R7c3MfT_ELYaeOEfR5GMU5xWtDX1AW?usp=sharing"
+    },
+    {
+      "title": "Çözümlü M21 HL Paper 1",
+      "subtitle": "",
+      "logo": 2,
+      "ontap": "https://drive.google.com/drive/folders/1EI8Mqr7ZyAXv34l8VbovF_gZyTdUi0i7?usp=sharing"
+    },
+    {
+      "title": "Çözümlü M21 SL Paper 1 A",
+      "subtitle": "",
+      "logo": 2,
+      "ontap": "https://drive.google.com/drive/folders/1ZvPIlkHFg_At-5a8MblZxeSfNR0HG4KE?usp=sharing"
+    },
+    {
+      "title": "Çözümlü M21 SL Paper 1 B",
+      "subtitle": "",
+      "logo": 2,
+      "ontap": "https://drive.google.com/drive/folders/1o-0HaI9jm351iCTSSPY0YWW5NbySkfh7?usp=sharing"
+    },
+    {
+      "title": "HL Past Paperlar",
+      "subtitle": "IBDOCS linki",
+      "logo": 3,
+      "ontap": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Turkish_A_Literature_HL/"
+    },
+    {
+      "title": "SL Past Paperlar",
+      "subtitle": "IBDOCS linki",
+      "logo": 3,
+      "ontap": "https://dl.ibdocs.re/IB%20PAST%20PAPERS%20-%20SUBJECT/Group%201%20-%20Studies%20in%20Language%20and%20Literature/Turkish_A_Literature_SL/"
+    }
+  ]
+}

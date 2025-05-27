@@ -1,0 +1,57 @@
+{
+  "notlar": [
+    {
+      "title": "Konularına Göre P1 SL",
+      "subtitle": "",
+      "logo": 1,
+      "ontap": "https://drive.google.com/file/d/1J8mfhipTrAKsr7n1Yj4I2J7LELEMd-hv/view?usp=sharing"
+    },
+    {
+      "title": "Konularına Göre P2 SL",
+      "subtitle": "",
+      "logo": 1,
+      "ontap": "https://drive.google.com/file/d/1SeT6cxvF46IQrF8kav0qtc7Hp-3S_C-x/view?usp=sharing"
+    },
+    {
+      "title": "Revision Town",
+      "logo": 3,
+      "subtitle": "Bütün past paperlar var neredeyse",
+      "ontap": "https://revisiontown2024.pages.dev"
+    }
+  ],
+  "kitaplar": [
+    {
+      "title": "Save My Exams",
+      "subtitle": "Korsan Site Linki",
+      "logo": 3,
+      "ontap": "https://revisiontown2024.pages.dev/#app/ib-chemistry"
+    }
+  ],
+  "ek": [
+    {
+      "title": "Yorumlanmış IA'ler",
+      "subtitle": "",
+      "logo": 2,
+      "ontap": "https://drive.google.com/drive/folders/1sPGPPrt9ZK3540FTNQ5oJhBvO0ffIxin?usp=sharing"
+    },{
+      "title": "Emir kalıpları",
+      "subtitle": "",
+      "logo": 1,
+      "ontap": "https://drive.google.com/file/d/1biZPgbfRXaBkgTFODar8ORV3cDNY9o2V/view?usp=sharing"
+    },{
+      "title": "IA Guide",
+      "subtitle": "",
+      "logo": 1,
+      "ontap": "https://drive.google.com/file/d/1pz3P_WOnUQoQ8dVa98e5xYlfEuRSrfaW/view?usp=sharing"
+    },{
+      "title": "IA deney örnekleri",
+      "subtitle": "",
+      "logo": 1,
+      "ontap": "https://docs.google.com/document/d/15TlVuVG2fo-oFhTeazw-ctMiQAguD2t4/edit?usp=sharing&ouid=112941232220740055535&rtpof=true&sd=true"
+    }
+  ]
+  ,
+  "past": [
+
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "notlar": [
+    {
+      "title": "Konularına Göre P1",
+      "subtitle": "",
+      "logo": 1,
+      "ontap": "https://drive.google.com/file/d/1Gq9aulxs7X4WEBwotsnJygzJeWuAa1hN/view?usp=sharing"
+    },
+    {
+      "title": "Konularına Göre P2",
+      "subtitle": "",
+      "logo": 1,
+      "ontap": "https://drive.google.com/file/d/16M46qoKAHbSRUIpJwXjNxs9fxyuEUwnU/view?usp=sharing"
+    },
+    {
+      "title": "Revision Town",
+      "logo": 3,
+      "subtitle": "Bütün past paperlar var neredeyse",
+      "ontap": "https://revisiontown2024.pages.dev"
+    }
+  ],
+  "kitaplar": [
+    {
+      "title": "Christos Nikolaidis",
+      "subtitle": "Site linki",
+      "logo": 3,
+      "ontap": "https://www.christosnikolaidis.com/en/maa-exercise/"
+    },
+    {
+      "title": "Save My Exams",
+      "subtitle": "Korsan Site Linki",
+      "logo": 3,
+
+      "ontap": "https://revisiontown2024.pages.dev/#app/ib-math"
+    }
+  ],
+  "ek" : []
+  ,
+  "past" : []
+}
