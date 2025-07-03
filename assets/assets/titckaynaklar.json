@@ -102,16 +102,22 @@
   ],
     "notlar" : [
   {
-    "title": "TITC NOTLARI",
+    "title": "Özet Notlar",
     "logo": 1,
-    "subtitle": "Kısa ve öz sınava hazırlık notları",
+    "subtitle": "6 Sayfa",
     "ontap": "https://drive.google.com/file/d/1XLLRia6QQFgGTs8e3cb6-OFH43TadbyW/view?usp=sharing"
   },
   {
     "title": "Kümülatif Notlar",
     "logo": 1,
-    "subtitle": "Yazılıya Çalışmak için birebir uzun uzun notlar",
+    "subtitle": "83 Sayfa",
     "ontap": "https://drive.google.com/file/d/1PT94RXbD_b2PYT3LUuA7uu1YmT3Jiarc/view?usp=sharing"
+  },
+  {
+    "title": "Uzun Notlar",
+    "logo": 2,
+    "subtitle": "200+ Sayfa",
+    "ontap": "https://drive.google.com/drive/folders/1bDkSRcND3CEjmUSCWFW8gD-rPq_RbWl2?usp=sharing"
   }
  ],
  "ek": [
