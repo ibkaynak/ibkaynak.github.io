@@ -1,0 +1,143 @@
+{
+  "past": [
+    {
+      "title": "Specimen Paper 1",
+      "logo": 1,
+      "subtitle": "Yeni Paper 1 sistemi için Tema 1 sorusu",
+      "ontap": "https://drive.google.com/file/d/1dEDqbWSBnQ-o7lF6DdPn-5x0qLsUwToF/view?usp=sharing"
+    },
+    {
+      "title": "Paper 2ler",
+      "logo": 1,
+      "subtitle": "Tüm yılların konularına göre ayrılmış Paper 2 soruları",
+      "ontap": "https://drive.google.com/file/d/1Yn1fJBW9JEBwaP42VsU0e-wpE4UzUVnp/view?usp=sharing"
+    },
+    {
+      "title": "Paper 2 Cevapları",
+      "logo": 1,
+      "subtitle": "Önceki PDFin cevapları",
+      "ontap": "https://drive.google.com/file/d/1-YNq1_7fLvF29_0RllGl28C3X0vUSxNU/view?usp=sharing"
+    },
+    {
+      "title": "2013",
+      "logo": 2,
+      "subtitle": "",
+      "ontap": "https://drive.google.com/drive/folders/1tyUvdrUlE7yqSu649NmPaP-NZfmYcOVH?usp=sharing"
+    },
+    {
+      "title": "2014",
+      "subtitle": "",
+            "logo": 2,
+      "ontap": "https://drive.google.com/drive/folders/1tc5ODTSN1VUZhYzgheblzaHmnn7LSkCB?usp=sharing"
+    },
+    {
+      "title": "2015",
+      "subtitle": "",
+            "logo": 2,
+      "ontap": "https://drive.google.com/drive/folders/1304KZhDBeuOifNgy5vgMt-UsEqs-uKtZ?usp=sharing"
+    },
+    {
+      "title": "2016",
+      "subtitle": "",
+            "logo": 2,
+      "ontap": "https://drive.google.com/drive/folders/1XQy78O1022nci0IfnrK4q4Ii_THZkhR_?usp=sharing"
+    },
+        {
+      "title": "2017",
+      "subtitle": "",
+            "logo": 2,
+      "ontap": "https://drive.google.com/drive/folders/1GV4QTehxo_E6UuiXvt_SCxicR1EStShN?usp=sharing"
+    },
+    {
+      "title": "2018",
+            "logo": 2,
+      "subtitle": "",
+      "ontap": "https://drive.google.com/drive/folders/1Lq_bNcK7Og8sTjfyXM7uKt-BQ39bPWDn?usp=sharing"
+    },
+    {
+      "title": "2019",
+            "logo": 2,
+      "subtitle": "",
+      "ontap": "https://drive.google.com/drive/folders/1a6PG89L7gky3SxIhQ8Y9gJ4ieKEVspSu?usp=sharing"
+    },
+    {
+      "title": "2022",
+      "subtitle": "",
+            "logo": 2,
+      "ontap": "https://drive.google.com/drive/folders/1WehjUXnSw2Nsc_zmbX9xfJ8A8NBxNSzP?usp=sharing"
+    },
+    {
+      "title": "2023",
+      "subtitle": "",
+            "logo": 2,
+      "ontap": "https://drive.google.com/drive/folders/1Fs4Xoj-jrzjNnFnehxzLYgCPTnc5h-bz?usp=sharing"
+    },
+    {
+      "title": "2024",
+      "subtitle": "",
+            "logo": 2,
+      "ontap": "https://drive.google.com/drive/folders/1OQ6u6VuwVdtr62Z7x7xowqdKjp9dvUC0?usp=sharing"
+    }
+  ],
+  "kitaplar" : [
+  {
+    "title": "TÜSİAD Tarih",
+      "logo": 1,
+
+    "subtitle": "Tarih için iyi bir kaynak",
+    "ontap": "https://drive.google.com/file/d/1VtgnPDewNk9PU_5KM1JAra4kqQbZJ2OA/view?usp=sharing"
+  },
+      {
+    "title": "AÖF İktisat Tarihi",
+    "logo": 1,
+    "subtitle": "Coğrafya için iyi bir kaynak",
+    "ontap": "https://drive.google.com/file/d/1b2trLR2u4aTDGqouxRYEb5KxBbPIBtgN/view?usp=sharing"
+  },
+  {
+    "title": "Huberman",
+    "logo": 1,
+    "subtitle": "Bu kitap bi işe yaramıyor asla sorulmuyor",
+    "ontap": "https://drive.google.com/file/d/1GVxCkKinAM6MUAsLlUfxKZKkrlWukfu5/view?usp=sharing"
+  }
+  ],
+    "notlar" : [
+  {
+    "title": "Özet Notlar",
+    "logo": 1,
+    "subtitle": "6 Sayfa",
+    "ontap": "https://drive.google.com/file/d/1XLLRia6QQFgGTs8e3cb6-OFH43TadbyW/view?usp=sharing"
+  },
+  {
+    "title": "Kümülatif Notlar",
+    "logo": 1,
+    "subtitle": "83 Sayfa",
+    "ontap": "https://drive.google.com/file/d/1PT94RXbD_b2PYT3LUuA7uu1YmT3Jiarc/view?usp=sharing"
+  },
+  {
+    "title": "Uzun Notlar",
+    "logo": 2,
+    "subtitle": "200+ Sayfa",
+    "ontap": "https://drive.google.com/drive/folders/1bDkSRcND3CEjmUSCWFW8gD-rPq_RbWl2?usp=sharing"
+  }
+ ],
+ "ek": [
+  {
+    "title": "TITC Öğrenci Kılavuzu",
+    "logo": 1,
+    "subtitle": "",
+    "ontap": "https://drive.google.com/file/d/1maOhsHXZFggsmFfHySdSWhMWiDBLHdIt/view?usp=sharing"
+  },
+  {
+    "title": "IA Örnekleri",
+    "logo": 2,
+    "subtitle": "",
+    "ontap": "https://drive.google.com/drive/folders/1s2lVRoF1FqDPA3sOum9fwy5G3aPfPDXr?usp=sharing"
+  },
+  {
+    "title": "32. Gün",
+    "logo": 3,
+    "subtitle": "",
+    "ontap": "https://www.youtube.com/@32.Gun"
+  }
+ ]
+}

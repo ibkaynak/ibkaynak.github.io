@@ -1,0 +1,68 @@
+{
+  "notlar": [
+    {
+      "title": "Konularına Göre P1",
+      "subtitle": "",
+      "logo": 1,
+      "ontap": "https://drive.google.com/file/d/1aDm1cRx0ca3zMqh28HVq7XK6I3Tpfxou/view?usp=sharing"
+    },
+    {
+      "title": "Konularına Göre P2",
+      "subtitle": "",
+      "logo": 1,
+      "ontap": "https://drive.google.com/file/d/1HcHsvDnl8e0Smx9tWwNg8eyEy5awdYeE/view?usp=sharing"
+    },
+    {
+      "title": "Revision Town",
+      "subtitle": "Bütün past paperlar var neredeyse",
+      "logo": 3,
+      "ontap": "https://revisiontown2024.pages.dev"
+    }
+  ],
+  "kitaplar": [
+    {
+      "title": "Tsokos",
+      "logo": 3,
+      "subtitle": "Mock Examler ve Quizler",
+      "ontap": "https://www.tsokosphysics.com/specimen_papers.html"
+    },
+    {
+      "title": "Save My Exams",
+      "logo": 3,
+      "subtitle": "Korsan Site Linki",
+      "ontap": "https://revisiontown2024.pages.dev/#app/ib-physics"
+    }
+  ],
+  "ek": [
+    {
+      "title": "Yorumlanmış IA'ler",
+      "logo": 2,
+      "subtitle": "",
+      "ontap": "https://drive.google.com/drive/folders/19ZV7SYp0a0ZkmCNzg5tT31LjgG_0oCjc?usp=sharing"
+    },{
+      "title": "Similasyon kullanma rehberi",
+      "logo": 1,
+      "subtitle": "",
+      "ontap": "https://drive.google.com/file/d/1t7-TdBpVMyUlSS-58cvY_9duk5yRcBKi/view?usp=sharing"
+    },{
+      "title": "Emir kalıpları",
+      "logo": 1,
+      "subtitle": "",
+      "ontap": "https://drive.google.com/file/d/1k0gSJVEVptxEY9kYPXa6MYfWaiJoIjBT/view?usp=sharing"
+    },{
+      "title": "Puan açıklamaları",
+      "logo": 1,
+      "subtitle": "",
+      "ontap": "https://drive.google.com/file/d/1tKD7RyLt-OyTy6Ma0C3fp3rw31rJzRkt/view?usp=sharing"
+    },{
+      "title": "IA deney örnekleri",
+      "logo": 1,
+      "subtitle": "",
+      "ontap": "https://drive.google.com/file/d/1O2JBv-etB1ed_9rTjp-lKuCPrLx7JhnU/view?usp=sharing"
+    }
+  ]
+  ,
+  "past": [
+
+  ]
+}
