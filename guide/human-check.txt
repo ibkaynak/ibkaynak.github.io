@@ -1,0 +1,72 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+6:I[3606,["185","static/chunks/app/layout-3477663c017036e2.js"],"default"]
+7:I[4404,["185","static/chunks/app/layout-3477663c017036e2.js"],"GoogleAnalytics"]
+4:["slug","human-check","d"]
+0:["w_7QC9uH9WGltUrxcNWji",[[["",{"children":["guide",{"children":[["slug","human-check","d"],{"children":["__PAGE__?{\"slug\":\"human-check\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["guide",{"children":[["slug","human-check","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","guide","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","guide","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"tr","children":["$","body",null,{"children":[["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}],false,["$","$L6",null,{}],["$","$L7",null,{"gaId":"G-WVHCB81ZXZ"}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/00758a55b587a833.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L8"]]]]]
+9:I[6504,["138","static/chunks/138-51b07e5196eb6c46.js","930","static/chunks/app/guide/%5Bslug%5D/page-cf341c147598546f.js"],"default"]
+a:T10c1,<h2 style="color:#5b21b6; font-weight:800; font-size:26px">
+7. HUMAN CHECK
+</h2>
+<p> </p>
+<div style="background:#f2f2f2; padding:1.2rem; border-radius:8px;">
+<p style="font-weight:700;">Columbia University</p>
+<p><em>
+“List a selection of texts, resources and outlets that have contributed to your intellectual development outside of academic courses.”
+</em></p>
+<p> </p>
+<p style="font-weight:700;">Cornell Engineering and Princeton University</p>
+<p><em>
+“What brings you joy?”
+</em></p>
+</div>
+<p> </p>
+<p>
+Instagram’da gördüğüm bir danışman bu tip sorular için “A fun project for bored interns at the admissions office” demişti. Doğru mudur bilmiyorum ama bildiğim şey bu essayler yanlış yazılırsa kabul şansınızı azaltabilir. Üniversitenin bu tarz sorularda görmek istediği şey, akademinin, kulüplerin, üniversite başvuru stresinin dışında bir insan olarak nasılsınız. O yüzden bu tarz sorularda gerçekten dürüst ve basit cevaplar vermeniz en mantıklısı.
+</p>
+<p> </p>
+<h3 style="font-weight:700; font-size:22px">
+Renkler ve Zevkler
+</h3>
+<p> </p>
+<p>
+Columbia’nın sorusunda sizin zihinsel gelişiminize katkı sağlayan kaynaklar istenmiş. Soruya cevap verirken akademik kaynaklar ve kişisel kaynaklar arasında denge kurarak kısa bir liste oluşturmalısınız. Çok uzun olması çok daha iyi olduğu anlamına gelmez. Düşünebileceğiniz bazı şeyler şöyle olabilir:
+</p>
+<p> </p>
+<ul>
+<li><strong>Akademik:</strong> Bölümünüz ile ilgili bir kitap, ilgilendiğiniz bir akademik podcast, akademik dergiler, belgeseller, müzeler, gazeteler vs.</li>
+<li><strong>Kişisel:</strong> Beğendiğiniz ve sizi yansıttığına inandığınız bir film, dizi, beğendiğiniz bir edebi akımdan romanlar, hikayeler, gezdiğiniz bir müze vs.</li>
+</ul>
+<p> </p>
+<p>
+<strong>NOT :</strong> Kişisel eserler eğer okumak istediğiniz alanla bağdaştırılabiliyorsa daha iyi olabilir ama abartmamak lazım. Örneğin endüstri mühendisliği başvurusu yapan biri sistemlerin çöküşü üzerine bir film yazarsa artı puan olarak dönebilir vs.
+</p>
+<p> </p>
+<p>
+What brings you joy prompt’unu yazarken soyutluktan kaçınmanız ve çok spesifik bir anınızı merkeze koyarak anlatmanız daha iyi olacaktır. Bazı örnekler şöyle olabilir:
+</p>
+<p> </p>
+<ul>
+<li>Ailenizle veya arkadaşlarınızla her ay geleneksel olarak yaptığınız bir etkinlik, bir sınav öncesinde yaşadığınız duygu, izlediğiniz bir filmin sonunda yaşadığınız keyif vs.</li>
+</ul>
+<p> </p>
+<h3 style="font-weight:700; font-size:22px">
+Nasıl Yazarım?
+</h3>
+<p> </p>
+<p>
+What brings you joy prompt’una Cornell 100, Princeton 50 kelimelik yer ayırmış. Bu nedenle genel olarak tek paragrafta yazmanız gerekiyor. Burada yazarken üstünde karar kıldığınız anıyı betimleme tekniği ile anlatın ve sizi nasıl hissettirdiğini okuyucuya geçirmeye çalışın. Amacınız, admissions officer okuduğunda sanki sizin yerinizdeymiş gibi o anı yaşıyormuş hissini vermek olmalı.
+</p>
+<p> </p>
+<h3 style="font-weight:700; font-size:22px">
+Ne Yapmamalıyım?
+</h3>
+<p> </p>
+<ul>
+<li><strong>Akademik ağırlıklı şeyler yazmayın.</strong> Human Check promptları sizin kişisel olarak nasıl olduğunuzu görmeye çalışıyor. Eğer resources prompt’unda 20 tane akademik makale listelerseniz büyük ihtimalle etiketlenirsiniz. Veya joy prompt’unda “Sınavdan 100 almak” gibi bir konu üzerine yazarsanız hem fark yaratamazsınız hem de officer’a nerd sinyali verirsiniz.</li>
+<li><strong>Yalan söylemeyin.</strong> Zeki görünmek için olmamış olaylar üzerinden, okunmamış kitaplar üzerinden essayler yazmak tatlı görünebilir ama size katkı sağlamaz. Özellikle büyük okulların alumni interview yaptığını düşünürsek bu tarz promptlarda yalan söylemenin size çok büyük zararları olacağını söyleyebiliriz. Interview’da resources prompt’unda yazdığınız kolpa bir makale üzerine bir soru gelir ve tıkanıp kalırsanız red yiyebilirsiniz.</li>
+<li><strong>CV tekrar etmeyin.</strong> “X kulübü başkanlığı”, “Y yarışmasını kazanmak” aynı akademik ağırlıklı essayler gibi bu prompt’un isteğini yerine getirmiyor.</li>
+</ul>
+2:["$","div",null,{"className":"min-h-screen bg-white","children":[["$","$L9",null,{}],["$","section",null,{"className":"px-6 py-24","style":{"background":"linear-gradient(135deg, rgba(102,126,234,0.08) 0%, rgba(118,75,162,0.08) 50%, #fff 100%)"},"children":["$","div",null,{"className":"mx-auto max-w-4xl text-center","children":[["$","h1",null,{"className":"mb-6 text-5xl font-extrabold tracking-tight leading-[1.15]","style":{"background":"linear-gradient(135deg, #667eea, #764ba2)","WebkitBackgroundClip":"text","WebkitTextFillColor":"transparent","backgroundClip":"text"},"children":"Human Check Essay'i Nasıl Yazılır"}],["$","a",null,{"href":"https://drive.google.com/file/d/1EESTVycyyDQ4iQ-9ftu6Zlswy42RffrO/view?usp=share_link","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center gap-2 rounded-xl border border-[#667eea]/30 px-6 py-3 font-semibold text-[#667eea] transition hover:bg-[#667eea]/5","children":["PDF indir",["$","svg",null,{"className":"h-4 w-4","fill":"none","viewBox":"0 0 24 24","stroke":"currentColor","strokeWidth":2,"children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M12 16v-8m0 8l-3-3m3 3l3-3M4 20h16"}]}]]}]]}]}],["$","main",null,{"className":"mx-auto w-full max-w-3xl px-6 py-16","children":["$","div",null,{"className":"prose prose-lg md:prose-xl max-w-none prose-table:w-full prose-th:text-left","dangerouslySetInnerHTML":{"__html":"$a"}}]}],["$","footer",null,{"className":"w-full bg-[#fafafa] px-6 py-16","children":["$","div",null,{"className":"mx-auto flex max-w-2xl flex-col items-center text-center","children":[["$","h2",null,{"className":"mb-3 text-3xl font-bold text-gray-800","children":"Bize Ulaşın"}],["$","p",null,{"className":"mb-8 text-base text-gray-500","children":"Her türlü öneri, geri bildirim veya içerik katkısı için bizimle iletişime geçebilirsiniz."}],["$","div",null,{"className":"flex flex-wrap justify-center gap-3","children":[["$","a",null,{"href":"mailto:ibkaynak@proton.me","className":"flex items-center gap-2 rounded-xl border border-gray-200 px-5 py-3 text-sm font-medium text-gray-700 transition hover:bg-gray-100","children":[["$","svg",null,{"className":"h-4 w-4","fill":"none","viewBox":"0 0 24 24","stroke":"currentColor","strokeWidth":2,"children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"}]}],"Mail Gönder"]}],["$","a",null,{"href":"https://instagram.com/ibkaynak","target":"_blank","rel":"noopener noreferrer","className":"flex items-center gap-2 rounded-xl border border-purple-400 px-5 py-3 text-sm font-medium text-purple-700 transition hover:bg-purple-50","children":[["$","svg",null,{"className":"h-4 w-4","fill":"none","viewBox":"0 0 24 24","stroke":"currentColor","strokeWidth":2,"children":[["$","rect",null,{"x":"2","y":"2","width":"20","height":"20","rx":"5","ry":"5","strokeLinecap":"round","strokeLinejoin":"round"}],["$","circle",null,{"cx":"12","cy":"12","r":"4"}],["$","circle",null,{"cx":"17.5","cy":"6.5","r":"0.5","fill":"currentColor"}]]}],"Instagram"]}]]}]]}]}]]}]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Human Check Essay'i Nasıl Yazılır | IBKaynak.com"}],["$","meta","3",{"name":"description","content":"US university application essay türleri ve nasıl yazılacağı."}],["$","meta","4",{"property":"og:title","content":"IBKaynak.com - Ücretsiz IB Kaynakları"}],["$","meta","5",{"property":"og:description","content":"Türk IB öğrencileri için erişimi zor, nitelikli kaynakların bir araya getirildiği ücretsiz bir arşiv."}],["$","meta","6",{"property":"og:url","content":"https://ibkaynak.com"}],["$","meta","7",{"property":"og:site_name","content":"IBKaynak.com"}],["$","meta","8",{"property":"og:locale","content":"tr_TR"}],["$","meta","9",{"property":"og:image","content":"https://ibkaynak.com/og-image.jpg"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:image:alt","content":"IBKaynak.com"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"IBKaynak.com - Ücretsiz IB Kaynakları"}],["$","meta","16",{"name":"twitter:description","content":"Türk IB öğrencileri için erişimi zor, nitelikli kaynakların bir araya getirildiği ücretsiz bir arşiv."}],["$","meta","17",{"name":"twitter:image","content":"https://ibkaynak.com/og-image.jpg"}],["$","link","18",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"32x32"}]]
+1:null

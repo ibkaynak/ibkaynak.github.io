@@ -1,0 +1,96 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+6:I[3606,["185","static/chunks/app/layout-3477663c017036e2.js"],"default"]
+7:I[4404,["185","static/chunks/app/layout-3477663c017036e2.js"],"GoogleAnalytics"]
+4:["slug","kanada-basvuru-rehberi","d"]
+0:["w_7QC9uH9WGltUrxcNWji",[[["",{"children":["guide",{"children":[["slug","kanada-basvuru-rehberi","d"],{"children":["__PAGE__?{\"slug\":\"kanada-basvuru-rehberi\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["guide",{"children":[["slug","kanada-basvuru-rehberi","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","guide","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","guide","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"tr","children":["$","body",null,{"children":[["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}],false,["$","$L6",null,{}],["$","$L7",null,{"gaId":"G-WVHCB81ZXZ"}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/00758a55b587a833.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L8"]]]]]
+9:I[6504,["138","static/chunks/138-51b07e5196eb6c46.js","930","static/chunks/app/guide/%5Bslug%5D/page-cf341c147598546f.js"],"default"]
+a:T24d2,<h2><strong>Genel Bakış</strong></h2>
+<p> </p>
+<img src="/images/guides/ing/image9.png" style="display:block; margin:0 auto; width:80%; border-radius:16px; box-shadow:0 4px 12px rgba(0,0,0,0.12);" />
+<p> </p>
+<p>Kanada’da lisans programları 4 yıllıktır. Ontario eyaletindeki okullar için başvuru iki aşamalıdır. Önce OUAC isimli ortak portaldan kişisel bilgiler girilir ve okullara başvurulur; daha sonra da okulların kendi portallarında essayler, predictedlar ve bazen video konferanslar girilir. Ontario dışındaki okullarda başvurular için ortak bir program yoktur ve üniversiteler direkt kendi başvuru portallarından başvuruları kabul eder. Okulların kendi portallarında bir düzenleme olmadığı için üniversitelerin talep edeceği materyaller fazlasıyla değişim gösterebilir.</p>
+<p> </p>
+<p>Kanada başvuruları genelde ocak ortasında kapansa da bazı üniversiteler early admission şansı sunabilir. Belirlenmiş bir tarihin öncesinde gönderilen başvurular daha erken okunur ve daha erken sonuçlanır. Her ne kadar üniversiteler başvuru tarihinin kabul oranını etkilemediğini söylese de kabuller rolling admission şeklinde verildiği için dosyanızın erken okunması kabul şansınızı arttırabilir. Bu tarih genelde aralık başıdır ama teyit etmekte fayda var.</p>
+<p> </p>
+<h3><strong>Hangi belgeler gerekiyor?</strong></h3>
+<p> </p>
+<p>Bu soru bölümden bölüme ve üniversiteden üniversiteye çok değişiyor. Bazı bölümler sadece predictedlar ile başvuru kabul ederken bazı bölümler CV, essayler, dil yeterliliği ve hatta video konferansı dahi isteyebiliyor.</p>
+<p> </p>
+<p>Bu çeşitlilik nedeniyle UK’deki gibi kapsayıcı bir şekilde notlar  mı önemli CV mi önemli tarzı bir analiz yapamıyoruz. Ama genel olarak notların temel alındığını ve CV/Essaylerin fark yaratmak için ikinci planda önemli olduğunu söyleyebiliriz.  Bu durumu göstermek için örnek olarak Waterloo Engineering admission sistemini inceleyelim.</p>
+<p> </p>
+<img src="/images/guides/ing/image5.png" style="display:block; margin:0 auto; width:80%; border-radius:16px; box-shadow:0 4px 12px rgba(0,0,0,0.12);" />
+<p> </p>
+<p>Bu tabloda gördüğümüz gibi Admission Average, yani notlar, başvurunun çoğunluğunu oluşturuyor; AIF, yani essayler ve extracurriculurlar, ve Video interview ise ikinci planda daha çok tiebreaker gibi bir roldeler.</p>
+<p> </p>
+<p>Sonuç olarak Kanada başvurusu yapmak için hem CV hem de akademik yönde güçlü olmanız gerektiğini söyleyebiliriz. Başvurmayı planladığınız okulların şartlarını iyice incelemeniz ve ona göre hazırlık yapmanız çok önemli ama sırf bir okul CV istemiyor diye okul hayatınız boyunca CV’ye bakmamazlık yapmayın. Hedefleriniz değişebilir, üniversitenin kriterleri değişebilir ve aniden başvurunuz sıkıntıya düşebilir. Hazırlıklı olun.</p>
+<p> </p>
+<h3><strong>Video Interview</strong></h3>
+<p> </p>
+<p>Kanada başvurularında video interview veya personal profile, çoğu üniversitede Kira Talent adına bir platform üzerinden yapılır. Bu interview’lar canlı değildir, yani karşınızda canlı bir insan olmaz. Uygulamaya girdiğinizde karşınıza soruyu okuyan veya seslendiren bir video ya da yazılı bir prompt çıkar. Okula göre değişmekle birlikte genellikle 1-2 dakikalık bir hazırlanma süresi verilir ve bu sürenin ardından cevap kaydı otomatik olarak başlar. Interview’a başladıktan sonra kaydı durdurmak, geri dönmek veya cevapları yeniden kaydetmek mümkün değildir bu nedenle hazırlanma sürenizi iyi değerlendirmeniz ve cevap verirken heyecanlanmamanız gerekiyor.</p>
+<p> </p>
+<p>Soruların video/yazılı olması da her şey gibi okuldan okula çok değişiyor. Örnek olarak Toronto Engineering’e bakarsak bir adet yazılı soru ve iki adet video cevap beklediklerini görebilirsiniz.</p>
+<p> </p>
+<img src="/images/guides/ing/image10.png" style="display:block; margin:0 auto; width:80%; border-radius:16px; box-shadow:0 4px 12px rgba(0,0,0,0.12);" />
+<p> </p>
+<p>Bu interviewlara önceden çalışmak önemli. Herkese farklı sorular sorulduğu için kazık bir soruda takılırsanız başvurunuzu çok kötü etkileyebilir. Örnek interview sorularına erişmek için <a href="https://www.youthfully.com/">youthfully</a> sitesini kullanabilirsiniz. Neredeyse bütün okullar için örnek soru ve video cevapları var sitede. Ağırlıkla tavsiye ederim.</p>
+<p> </p>
+<h3><strong>Ne Kadar IB Lazım?</strong></h3>
+<p>Kanada üniversiteleri IB öğrencilerine aşinadır ve başvurularda predicted gradeleri ciddiye alır. Değerlendirme sistemi dediğimiz gibi üniversiteden üniversiteye, fakülteden fakülteye çok değiştiği için net bir alt baraj veremesek de yüksek bir predicted grade’in başvuruyu çok iyi yönde etkileyeceğini söyleyebiliriz.</p>
+<p> </p>
+<p>Üst seviye ve rekabetçi üniversitelerde (örneğin Toronto, UBC, McGill, Waterloo) mühendislik, bilgisayar bilimleri ve benzeri sayısal bölümler için tipik olarak 38-42 IB aralığı gerekebilir. Bu okullarda toplam IB notu kadar, hatta çoğu zaman ondan daha fazla, HL Mathematics ve ilgili HL science derslerindeki performans belirleyicidir. Özellikle Math AA HL ve Physics gibi derslerden yüksek almak overall notunuzdan daha önemli olabilir. Örneğin Waterloo Engineering başvuruda Physics HL ve Math AA HL’i tavsiye ettiklerini belirtmiş.</p>
+<p> </p>
+<img src="/images/guides/ing/image3.png" style="display:block; margin:0 auto; width:80%; border-radius:16px; box-shadow:0 4px 12px rgba(0,0,0,0.12);" />
+<p> </p>
+<p>Daha orta seviye üniversitelerde veya rekabetin daha düşük olduğu programlarda 32-36 IB bandı yeterli olabilir. Bu tür okullarda HL gereksinimleri daha esnek olmakla birlikte, yine de bölümle doğrudan ilişkili derslerden güçlü notlar beklenir.</p>
+<p> </p>
+<h3><strong>Burs ve Tuition</strong></h3>
+<p> </p>
+<p>Kanada’da üniversitelerin uluslararası öğrenciler için yıllık ücretleri genel olarak 40.000–60.000 Kanada Doları aralığındadır. Ücretler üniversiteye ve bölüme göre ciddi şekilde değişir ama özellikle mühendislik ve tıp benzeri bölümler üst bantta yer alır.</p>
+<p> </p>
+<p>Burs durumu UK’e göre bir tık daha iyi olsa da yine için baya bir sıkıntıdır. Need-based scholarship yine neredeyse yoktur. Başarı bursları daha erişilebilirdir ve genelde 5-10k Kanada doları arasında gidip gelirler. Tam finansman sağlayan burslar çok az sayıda öğrenciye verilir ve genellikle ayrı bir değerlendirme süreci gerektirir.</p>
+<p> </p>
+<p>Buna rağmen Kanada’yı UK’den ayıran önemli bir fark vardır: bazı üniversiteler uluslararası öğrenciler için ayak basma bursları (entrance scholarship) sunar. Örneğin Waterloo gibi okullarda, başvuru sırasında ayrıca bir burs başvurusu yapmadan otomatik olarak değerlendirilen ve ilk yıl için 2.000–10.000 CAD arasında değişebilen burslar bulunabilir.<br>
+Aşağıda Toronto, Waterloo, UBC, McGill ve MacMaster’ın ortalama overseas turitonlarını koydum. Bu tarz üniversitelerde burslar dışında ortalama bu bantta bir tuition bekleyebilirsiniz. Daha ortalama veya alt düzeydeki okullar daha düşük tuitionlara sahip olabilir. Kontrol etmekte fayda var.</p>
+<p> </p>
+<img src="/images/guides/ing/picture4.png" style="display:block; margin:0 auto; width:80%; border-radius:16px; box-shadow:0 4px 12px rgba(0,0,0,0.12);" />
+&nbsp; 
+<h3><strong>SAT Gerekli mi?</strong></h3>
+<p>Kanada okullarında genelde SAT zorunlu değildir ama tavsiye edilir. Eğer iyi bir SAT skorunuz varsa başvurunuzla beraber okula göndermek kabul şansınızı arttırabilir. SAT skorlarını Amerika başvurusundaki gibi girebileceğiniz bir kutucuk bazen olmasa da College Board üzerinden okulun kodunu araştırıp gönderebilirsiniz.</p>
+<p> </p>
+<h3><strong>Mezuniyet sonrası</strong></h3>
+<p>Kanada’da lisans eğitimini tamamladıktan sonra Post-Graduation Work Permit (PGWP) programına başvurabilirsiniz. PGWP, mezun olunan programın süresine bağlı olarak 3 yıla kadar Kanada’da tam zamanlı çalışma hakkı tanır ve iş teklifi veya sponsor şartı gerektirmez. Bu izin, Kanada’da kalıcı oturum (Permanent Residence) başvuruları için en önemli adımlardan biri olarak kabul edilir.</p>
+<p> </p>
+<p>PGWP süresi boyunca Kanada’da edinilen nitelikli iş deneyimi, Express Entry ve eyalet aday programları (PNP) gibi göçmenlik sistemlerinde adaylara ciddi avantaj sağlar. Bu nedenle Kanada, mezuniyet sonrası ülkede kalmak ve uzun vadede çalışma ve oturum izni elde etmek isteyen öğrenciler için en elverişli ülkelerden biridir.</p>
+<p> </p>
+<h3><strong>Özet</strong></h3>
+<p> </p>
+<table>
+<thead>
+<tr>
+<th align="left">Odak</th>
+<th align="left">Akademik başarı öncelikli, CV ikinci derece önemli</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Gerekli Belgeler</td>
+<td align="left">Değişiyor ama genel olarak predicted, essayler, dil yeterliliği ve video interview</td>
+</tr>
+<tr>
+<td align="left">Başvuru tarihi</td>
+<td align="left">Genelde ocak ortası, early aralık ortası</td>
+</tr>
+<tr>
+<td align="left">Burs</td>
+<td align="left">Zor.</td>
+</tr>
+<tr>
+<td align="left">Mezuniyet Sonrası Oturum</td>
+<td align="left">3 seneye kadar PGWP</td>
+</tr>
+</tbody>
+</table>
+2:["$","div",null,{"className":"min-h-screen bg-white","children":[["$","$L9",null,{}],["$","section",null,{"className":"px-6 py-24","style":{"background":"linear-gradient(135deg, rgba(102,126,234,0.08) 0%, rgba(118,75,162,0.08) 50%, #fff 100%)"},"children":["$","div",null,{"className":"mx-auto max-w-4xl text-center","children":[["$","h1",null,{"className":"mb-6 text-5xl font-extrabold tracking-tight leading-[1.15]","style":{"background":"linear-gradient(135deg, #667eea, #764ba2)","WebkitBackgroundClip":"text","WebkitTextFillColor":"transparent","backgroundClip":"text"},"children":"Kanada Başvuru Rehberi"}],["$","a",null,{"href":"https://drive.google.com/file/d/1KWHyK_YdB5VugtsvNLPqBOcEX07Rai55/view?usp=share_link","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center gap-2 rounded-xl border border-[#667eea]/30 px-6 py-3 font-semibold text-[#667eea] transition hover:bg-[#667eea]/5","children":["PDF indir",["$","svg",null,{"className":"h-4 w-4","fill":"none","viewBox":"0 0 24 24","stroke":"currentColor","strokeWidth":2,"children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M12 16v-8m0 8l-3-3m3 3l3-3M4 20h16"}]}]]}]]}]}],["$","main",null,{"className":"mx-auto w-full max-w-3xl px-6 py-16","children":["$","div",null,{"className":"prose prose-lg md:prose-xl max-w-none prose-table:w-full prose-th:text-left","dangerouslySetInnerHTML":{"__html":"$a"}}]}],["$","footer",null,{"className":"w-full bg-[#fafafa] px-6 py-16","children":["$","div",null,{"className":"mx-auto flex max-w-2xl flex-col items-center text-center","children":[["$","h2",null,{"className":"mb-3 text-3xl font-bold text-gray-800","children":"Bize Ulaşın"}],["$","p",null,{"className":"mb-8 text-base text-gray-500","children":"Her türlü öneri, geri bildirim veya içerik katkısı için bizimle iletişime geçebilirsiniz."}],["$","div",null,{"className":"flex flex-wrap justify-center gap-3","children":[["$","a",null,{"href":"mailto:ibkaynak@proton.me","className":"flex items-center gap-2 rounded-xl border border-gray-200 px-5 py-3 text-sm font-medium text-gray-700 transition hover:bg-gray-100","children":[["$","svg",null,{"className":"h-4 w-4","fill":"none","viewBox":"0 0 24 24","stroke":"currentColor","strokeWidth":2,"children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"}]}],"Mail Gönder"]}],["$","a",null,{"href":"https://instagram.com/ibkaynak","target":"_blank","rel":"noopener noreferrer","className":"flex items-center gap-2 rounded-xl border border-purple-400 px-5 py-3 text-sm font-medium text-purple-700 transition hover:bg-purple-50","children":[["$","svg",null,{"className":"h-4 w-4","fill":"none","viewBox":"0 0 24 24","stroke":"currentColor","strokeWidth":2,"children":[["$","rect",null,{"x":"2","y":"2","width":"20","height":"20","rx":"5","ry":"5","strokeLinecap":"round","strokeLinejoin":"round"}],["$","circle",null,{"cx":"12","cy":"12","r":"4"}],["$","circle",null,{"cx":"17.5","cy":"6.5","r":"0.5","fill":"currentColor"}]]}],"Instagram"]}]]}]]}]}]]}]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Kanada Başvuru Rehberi | IBKaynak.com"}],["$","meta","3",{"name":"description","content":"IB öğrencileri için Kanada başvuru süreçleri."}],["$","meta","4",{"property":"og:title","content":"IBKaynak.com - Ücretsiz IB Kaynakları"}],["$","meta","5",{"property":"og:description","content":"Türk IB öğrencileri için erişimi zor, nitelikli kaynakların bir araya getirildiği ücretsiz bir arşiv."}],["$","meta","6",{"property":"og:url","content":"https://ibkaynak.com"}],["$","meta","7",{"property":"og:site_name","content":"IBKaynak.com"}],["$","meta","8",{"property":"og:locale","content":"tr_TR"}],["$","meta","9",{"property":"og:image","content":"https://ibkaynak.com/og-image.jpg"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:image:alt","content":"IBKaynak.com"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"IBKaynak.com - Ücretsiz IB Kaynakları"}],["$","meta","16",{"name":"twitter:description","content":"Türk IB öğrencileri için erişimi zor, nitelikli kaynakların bir araya getirildiği ücretsiz bir arşiv."}],["$","meta","17",{"name":"twitter:image","content":"https://ibkaynak.com/og-image.jpg"}],["$","link","18",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"32x32"}]]
+1:null
